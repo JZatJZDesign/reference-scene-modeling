@@ -10,7 +10,7 @@ This is a set of instructions and supporting resources for an AI agent. It is no
 
 This workflow grew out of a kitchen modeling experiment using a reference image with many small objects, detailed furniture, and different materials.
 
-In this particular test, the first GPT-5.6 reconstruction felt rather cartoonish and more like a collection of basic demonstration models. The GPT-6 result was significantly better, but it was still far from perfect.
+The GPT-6 reconstruction captured many aspects of the scene, but it was still far from perfect.
 
 Iteration helped. Asking the agent to compare its render against the input image, identify mismatches, and fix them improved the scene. However, some mistakes were not discovered by the AI itself and had to be pointed out by the user.
 
@@ -18,7 +18,7 @@ The chair was a particularly useful lesson. Its three-dimensional structure was 
 
 The result still had limitations, but it improved through this feedback loop. This skill packages those lessons into a reusable process, so that clarification, isolated-object analysis, and verification become part of the workflow instead of repeated manual reminders.
 
-These are observations from one project, not a controlled model benchmark. The results also reflect additional references, iterations, and human feedback. The skill is not tied to a specific GPT version and cannot guarantee a particular level of improvement.
+The results reflect additional references, iterations, and human feedback. The skill is not tied to a specific GPT version and cannot guarantee a particular level of improvement.
 
 ## What it helps with
 

@@ -1,1 +1,6 @@
-
+interface:
+  display_name: "Reference Scene Modeling"
+  short_description: "Reconstruct 3D scenes with structural and spatial checks"
+  default_prompt: "Use $reference-scene-modeling to reconstruct a scene from reference images, clarify key uncertainties, and validate complex assets separately before assembly."
+policy:
+  allow_implicit_invocation: true
